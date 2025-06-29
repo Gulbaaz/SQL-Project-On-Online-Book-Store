@@ -58,8 +58,7 @@ The project uses 3 CSV files as the main data source:
 
 All queries (Basic + Advanced) are written in a single `.sql` file:
 
-📂 [Online_Bookstore_Queries.sql](./02_SQL_Queries/SQL Queries.sql)
-
+📂 [SQL Queries.sql](./02_SQL_Queries/SQL%20Queries.sql)
 
 Each query is clearly commented and categorized for easy reading.  
 The types of queries include:
